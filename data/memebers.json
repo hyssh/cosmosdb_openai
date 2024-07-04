@@ -1,0 +1,465 @@
+[  
+  {  
+    "memberid": "memberid001",  
+    "age": 25,  
+    "gender": "female",  
+    "healthStatus": {  
+      "height": "165 cm",  
+      "weight": "60 kg",  
+      "conditions": ["asthma"],  
+      "medications": ["inhaler"],  
+      "allergies": ["pollen"],  
+      "bloodPressure": "110/70",  
+      "cholesterolLevel": "180 mg/dL",  
+      "bloodSugarLevel": "85 mg/dL",  
+      "physicalActivity": "active",  
+      "smokingStatus": "non-smoker",  
+      "alcoholConsumption": "rarely",  
+      "dietaryPreferences": "non-vegetarian",  
+      "familyHistory": ["asthma"],  
+      "recentCheckupDate": "2023-08-20",  
+      "vaccinationStatus": ["COVID-19"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 12000,  
+          "caloriesBurned": 600,  
+          "heartRate": 68,  
+          "sleepDuration": "7.5 hours",  
+          "temperature": "36.4°C",  
+          "bloodOxygenLevel": "99%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 11000,  
+          "caloriesBurned": 550,  
+          "heartRate": 70,  
+          "sleepDuration": "6.8 hours",  
+          "temperature": "36.5°C",  
+          "bloodOxygenLevel": "98%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid002",  
+    "age": 40,  
+    "gender": "male",  
+    "healthStatus": {  
+      "height": "175 cm",  
+      "weight": "80 kg",  
+      "conditions": ["diabetes"],  
+      "medications": ["metformin"],  
+      "allergies": ["none"],  
+      "bloodPressure": "130/85",  
+      "cholesterolLevel": "190 mg/dL",  
+      "bloodSugarLevel": "95 mg/dL",  
+      "physicalActivity": "moderate",  
+      "smokingStatus": "non-smoker",  
+      "alcoholConsumption": "occasionally",  
+      "dietaryPreferences": "vegetarian",  
+      "familyHistory": ["diabetes"],  
+      "recentCheckupDate": "2023-09-05",  
+      "vaccinationStatus": ["COVID-19", "Influenza"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 8500,  
+          "caloriesBurned": 450,  
+          "heartRate": 72,  
+          "sleepDuration": "7 hours",  
+          "temperature": "36.7°C",  
+          "bloodOxygenLevel": "97%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 9000,  
+          "caloriesBurned": 470,  
+          "heartRate": 74,  
+          "sleepDuration": "6.5 hours",  
+          "temperature": "36.6°C",  
+          "bloodOxygenLevel": "97%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid003",  
+    "age": 35,  
+    "gender": "female",  
+    "healthStatus": {  
+      "height": "160 cm",  
+      "weight": "55 kg",  
+      "conditions": ["hypertension"],  
+      "medications": ["amlodipine"],  
+      "allergies": ["dust"],  
+      "bloodPressure": "140/90",  
+      "cholesterolLevel": "200 mg/dL",  
+      "bloodSugarLevel": "100 mg/dL",  
+      "physicalActivity": "sedentary",  
+      "smokingStatus": "non-smoker",  
+      "alcoholConsumption": "never",  
+      "dietaryPreferences": "vegan",  
+      "familyHistory": ["hypertension"],  
+      "recentCheckupDate": "2023-07-10",  
+      "vaccinationStatus": ["COVID-19", "Hepatitis B"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 4000,  
+          "caloriesBurned": 200,  
+          "heartRate": 75,  
+          "sleepDuration": "8 hours",  
+          "temperature": "36.8°C",  
+          "bloodOxygenLevel": "98%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 4500,  
+          "caloriesBurned": 220,  
+          "heartRate": 76,  
+          "sleepDuration": "7.5 hours",  
+          "temperature": "36.7°C",  
+          "bloodOxygenLevel": "98%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid004",  
+    "age": 50,  
+    "gender": "male",  
+    "healthStatus": {  
+      "height": "180 cm",  
+      "weight": "85 kg",  
+      "conditions": ["heart disease"],  
+      "medications": ["statins"],  
+      "allergies": ["nuts"],  
+      "bloodPressure": "135/90",  
+      "cholesterolLevel": "220 mg/dL",  
+      "bloodSugarLevel": "105 mg/dL",  
+      "physicalActivity": "moderate",  
+      "smokingStatus": "former smoker",  
+      "alcoholConsumption": "occasionally",  
+      "dietaryPreferences": "non-vegetarian",  
+      "familyHistory": ["heart disease"],  
+      "recentCheckupDate": "2023-06-15",  
+      "vaccinationStatus": ["COVID-19", "Pneumonia"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 7000,  
+          "caloriesBurned": 350,  
+          "heartRate": 80,  
+          "sleepDuration": "6 hours",  
+          "temperature": "36.5°C",  
+          "bloodOxygenLevel": "96%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 7500,  
+          "caloriesBurned": 370,  
+          "heartRate": 82,  
+          "sleepDuration": "5.5 hours",  
+          "temperature": "36.6°C",  
+          "bloodOxygenLevel": "96%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid005",  
+    "age": 28,  
+    "gender": "female",  
+    "healthStatus": {  
+      "height": "170 cm",  
+      "weight": "65 kg",  
+      "conditions": ["migraine"],  
+      "medications": ["pain relievers"],  
+      "allergies": ["gluten"],  
+      "bloodPressure": "120/80",  
+      "cholesterolLevel": "170 mg/dL",  
+      "bloodSugarLevel": "90 mg/dL",  
+      "physicalActivity": "active",  
+      "smokingStatus": "non-smoker",  
+      "alcoholConsumption": "socially",  
+      "dietaryPreferences": "vegetarian",  
+      "familyHistory": ["migraine"],  
+      "recentCheckupDate": "2023-08-30",  
+      "vaccinationStatus": ["COVID-19"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 13000,  
+          "caloriesBurned": 650,  
+          "heartRate": 65,  
+          "sleepDuration": "7 hours",  
+          "temperature": "36.3°C",  
+          "bloodOxygenLevel": "99%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 12500,  
+          "caloriesBurned": 620,  
+          "heartRate": 67,  
+          "sleepDuration": "6.5 hours",  
+          "temperature": "36.4°C",  
+          "bloodOxygenLevel": "99%"  
+        }  
+      ]  
+    }  
+  },
+  {  
+    "memberid": "memberid006",  
+    "age": 45,  
+    "gender": "male",  
+    "healthStatus": {  
+        "height": "178 cm",  
+        "weight": "78 kg",  
+        "conditions": ["arthritis"],  
+        "medications": ["ibuprofen"],  
+        "allergies": ["none"],  
+        "bloodPressure": "125/80",  
+        "cholesterolLevel": "185 mg/dL",  
+        "bloodSugarLevel": "90 mg/dL",  
+        "physicalActivity": "low",  
+        "smokingStatus": "non-smoker",  
+        "alcoholConsumption": "occasionally",  
+        "dietaryPreferences": "non-vegetarian",  
+        "familyHistory": ["arthritis"],  
+        "recentCheckupDate": "2023-09-01",  
+        "vaccinationStatus": ["COVID-19", "Influenza"],  
+        "dailyHealthTelemetry": [  
+        {  
+            "date": "2023-10-01",  
+            "steps": 5000,  
+            "caloriesBurned": 250,  
+            "heartRate": 78,  
+            "sleepDuration": "7 hours",  
+            "temperature": "36.5°C",  
+            "bloodOxygenLevel": "97%"  
+        },  
+        {  
+            "date": "2023-10-02",  
+            "steps": 4500,  
+            "caloriesBurned": 220,  
+            "heartRate": 76,  
+            "sleepDuration": "6.5 hours",  
+            "temperature": "36.6°C",  
+            "bloodOxygenLevel": "97%"  
+        }  
+        ]  
+    }  
+    },
+  {  
+    "memberid": "memberid007",  
+    "age": 32,  
+    "gender": "female",  
+    "healthStatus": {  
+      "height": "162 cm",  
+      "weight": "58 kg",  
+      "conditions": ["allergies"],  
+      "medications": ["antihistamines"],  
+      "allergies": ["dust", "pollen"],  
+      "bloodPressure": "115/75",  
+      "cholesterolLevel": "170 mg/dL",  
+      "bloodSugarLevel": "88 mg/dL",  
+      "physicalActivity": "moderate",  
+      "smokingStatus": "non-smoker",  
+      "alcoholConsumption": "socially",  
+      "dietaryPreferences": "non-vegetarian",  
+      "familyHistory": ["none"],  
+      "recentCheckupDate": "2023-09-10",  
+      "vaccinationStatus": ["COVID-19"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 10000,  
+          "caloriesBurned": 500,  
+          "heartRate": 70,  
+          "sleepDuration": "7 hours",  
+          "temperature": "36.5°C",  
+          "bloodOxygenLevel": "98%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 10500,  
+          "caloriesBurned": 520,  
+          "heartRate": 72,  
+          "sleepDuration": "6.8 hours",  
+          "temperature": "36.4°C",  
+          "bloodOxygenLevel": "98%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid008",  
+    "age": 55,  
+    "gender": "male",  
+    "healthStatus": {  
+      "height": "172 cm",  
+      "weight": "82 kg",  
+      "conditions": ["hypertension", "diabetes"],  
+      "medications": ["lisinopril", "metformin"],  
+      "allergies": ["none"],  
+      "bloodPressure": "140/90",  
+      "cholesterolLevel": "210 mg/dL",  
+      "bloodSugarLevel": "120 mg/dL",  
+      "physicalActivity": "low",  
+      "smokingStatus": "former smoker",  
+      "alcoholConsumption": "rarely",  
+      "dietaryPreferences": "non-vegetarian",  
+      "familyHistory": ["hypertension", "diabetes"],  
+      "recentCheckupDate": "2023-08-25",  
+      "vaccinationStatus": ["COVID-19", "Influenza"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 4000,  
+          "caloriesBurned": 200,  
+          "heartRate": 75,  
+          "sleepDuration": "6.5 hours",  
+          "temperature": "36.6°C",  
+          "bloodOxygenLevel": "97%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 4500,  
+          "caloriesBurned": 220,  
+          "heartRate": 78,  
+          "sleepDuration": "6 hours",  
+          "temperature": "36.7°C",  
+          "bloodOxygenLevel": "97%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid009",  
+    "age": 29,  
+    "gender": "female",  
+    "healthStatus": {  
+      "height": "168 cm",  
+      "weight": "62 kg",  
+      "conditions": ["none"],  
+      "medications": ["none"],  
+      "allergies": ["none"],  
+      "bloodPressure": "118/76",  
+      "cholesterolLevel": "165 mg/dL",  
+      "bloodSugarLevel": "90 mg/dL",  
+      "physicalActivity": "active",  
+      "smokingStatus": "non-smoker",  
+      "alcoholConsumption": "occasionally",  
+      "dietaryPreferences": "vegetarian",  
+      "familyHistory": ["none"],  
+      "recentCheckupDate": "2023-09-15",  
+      "vaccinationStatus": ["COVID-19"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 13000,  
+          "caloriesBurned": 650,  
+          "heartRate": 68,  
+          "sleepDuration": "7.5 hours",  
+          "temperature": "36.4°C",  
+          "bloodOxygenLevel": "99%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 14000,  
+          "caloriesBurned": 700,  
+          "heartRate": 70,  
+          "sleepDuration": "7 hours",  
+          "temperature": "36.5°C",  
+          "bloodOxygenLevel": "99%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid010",  
+    "age": 60,  
+    "gender": "male",  
+    "healthStatus": {  
+      "height": "170 cm",  
+      "weight": "75 kg",  
+      "conditions": ["COPD"],  
+      "medications": ["bronchodilators"],  
+      "allergies": ["none"],  
+      "bloodPressure": "135/85",  
+      "cholesterolLevel": "200 mg/dL",  
+      "bloodSugarLevel": "110 mg/dL",  
+      "physicalActivity": "low",  
+      "smokingStatus": "former smoker",  
+      "alcoholConsumption": "rarely",  
+      "dietaryPreferences": "non-vegetarian",  
+      "familyHistory": ["COPD"],  
+      "recentCheckupDate": "2023-07-30",  
+      "vaccinationStatus": ["COVID-19", "Influenza", "Pneumonia"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 3000,  
+          "caloriesBurned": 150,  
+          "heartRate": 80,  
+          "sleepDuration": "6 hours",  
+          "temperature": "36.7°C",  
+          "bloodOxygenLevel": "95%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 3200,  
+          "caloriesBurned": 160,  
+          "heartRate": 82,  
+          "sleepDuration": "6.2 hours",  
+          "temperature": "36.8°C",  
+          "bloodOxygenLevel": "95%"  
+        }  
+      ]  
+    }  
+  },  
+  {  
+    "memberid": "memberid011",  
+    "age": 38,  
+    "gender": "female",  
+    "healthStatus": {  
+      "height": "165 cm",  
+      "weight": "68 kg",  
+      "conditions": ["anemia"],  
+      "medications": ["iron supplements"],  
+      "allergies": ["none"],  
+      "bloodPressure": "110/70",  
+      "cholesterolLevel": "160 mg/dL",  
+      "bloodSugarLevel": "85 mg/dL",  
+      "physicalActivity": "moderate",  
+      "smokingStatus": "non-smoker",  
+      "alcoholConsumption": "rarely",  
+      "dietaryPreferences": "vegetarian",  
+      "familyHistory": ["none"],  
+      "recentCheckupDate": "2023-09-01",  
+      "vaccinationStatus": ["COVID-19"],  
+      "dailyHealthTelemetry": [  
+        {  
+          "date": "2023-10-01",  
+          "steps": 9000,  
+          "caloriesBurned": 450,  
+          "heartRate": 72,  
+          "sleepDuration": "7 hours",  
+          "temperature": "36.5°C",  
+          "bloodOxygenLevel": "98%"  
+        },  
+        {  
+          "date": "2023-10-02",  
+          "steps": 9500,  
+          "caloriesBurned": 470,  
+          "heartRate": 74,  
+          "sleepDuration": "6.8 hours",  
+          "temperature": "36.6°C",  
+          "bloodOxygenLevel": "98%"  
+        }  
+      ]  
+    }  
+  }  
+]  
+
